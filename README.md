@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Wuhan University in Automation field 
+- 🔭 I’m currently working in Automation field of Wuhan University.
 - 🌱 I’m currently learning C(Embedded system), Python(Django) and Vue3.
 - 👯 I’m recruiting boys who like coding inspired by interest.
 - 🤔 I’m looking for help with more experience in coding style.
