@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Python (Deep Learning) and Vue3 (Web Apps).
 - 👯 I’m recruiting boys who like coding inspired by interest.
 - 🤔 I’m looking for help with more experience in coding style.
-- 💬 Ask me about "What are you dong? 🎨"
+- 💬 Ask me with "What are you doing?"
 <!--
 - 📫 How to reach me:
 - 😄 Pronouns: ...
